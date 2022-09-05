@@ -1,5 +1,7 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
+import Header from "./components/header"
+import Content from "./components/contents"
+import Footer from "./components/footer"
 import './App.css'
 
 function App() {
@@ -7,9 +9,11 @@ function App() {
 
   return (
     <div className="App">
-      <h1>
-        Juno App
-      </h1>
+
+      <Header/>
+      <Content/>
+      <Footer/>
+
     </div>
   )
 }

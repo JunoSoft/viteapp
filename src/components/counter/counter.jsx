@@ -3,7 +3,7 @@ import React from 'react';
 function counter(props) {
   return (
     <div>
-      fhfghfghghjhj
+      Hello Mr kaberuka
     </div>
   );
 }

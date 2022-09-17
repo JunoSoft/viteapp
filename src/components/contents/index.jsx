@@ -4,8 +4,8 @@ function index(props) {
   return (
     <div>
       <h1>App </h1>
-      first name: <br/>yuyu
-      Lat name: <br/>yuyuyu
+      first name:</br>
+      Lat name: <br/>
       Age:
     </div>
   );

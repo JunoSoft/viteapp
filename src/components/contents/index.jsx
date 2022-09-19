@@ -5,7 +5,6 @@ function index(props) {
     <div>
       <h1>App </h1>
       first name:<br/>
-      6789
       Lat name: <br/>
       Age:
     </div>

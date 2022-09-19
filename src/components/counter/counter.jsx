@@ -4,6 +4,7 @@ function counter(props) {
   return (
     <div>
       Counter :
+      Numbers:
     </div>
   );
 }

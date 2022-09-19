@@ -8,6 +8,7 @@ function index(props) {
       Lat name: <br/>
       Age:
       School:
+      Index
     </div>
   );
 }

@@ -8,7 +8,7 @@ return a
   }
   return (
     <div>
-      GEO lOCATION DATA
+      GEO lOCATION DATA g
       <input type="text" onChange={onchangeHandler}/>◘
     </div>
   );

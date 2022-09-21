@@ -5,7 +5,7 @@ function index(props) {
     <div>
       Hobbies
       <h1>Title</h1>
-      Hobbies of the Student
+      Hobbies of the Student wewewew
     </div>
   );
 }

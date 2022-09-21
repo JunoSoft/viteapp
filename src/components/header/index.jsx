@@ -4,6 +4,7 @@ function index(props) {
   return (
     <div>
       <h2>Main Tittle</h2>
+      <h3>SUb title</h3>
       <div>Hope everyone is going alright</div>
     </div>
   );

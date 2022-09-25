@@ -5,7 +5,7 @@ function counter(props) {
     <div>
       Counter :45
       Numbers:89
-      hello my people s
+      
     </div>
   );
 }
